@@ -17,4 +17,4 @@ The goal of this project is to create a quasi real-time processing chain of the 
 
 ## Directory Structure
 
-The code for this project is divided into 3 sub-directories, each one concerning one of the 3 main topics of the proessing chain: **Kafka**, **Spark** and **Live Plot**. The directory **Presentation** contains the report detailing our thought process and explaining the results we found. Finally, in **Images** one can find all the photos, plots and videos that have been used in the report. 
+The code for this project is divided into 3 files, each one concerning one of the 3 main topics of the proessing chain: **Kafka**, **Spark** and **Live Plot**. The file **Presentation** contains the report detailing our thought process and explaining the results we found. Finally, in the **Images** directory one can find all the photos, plots and videos that have been used in the report. 
