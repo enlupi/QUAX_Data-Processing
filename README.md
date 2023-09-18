@@ -15,6 +15,6 @@ The axion is a hypothetical particle introduced to solve the strong CP problem o
 
 The goal of this project is to create a quasi real-time processing chain of the data produced by the QUAX experimental apparatus and a live monitoring system of the detector data, using [Apache Kafka](https://kafka.apache.org/) and [Apache Spark](https://spark.apache.org/).
 
-## Directory Structure
+## Repository Structure
 
 The code for this project is divided into 3 files, each one concerning one of the 3 main topics of the proessing chain: **Kafka**, **Spark** and **Live Plot**. The file **Presentation** contains the report detailing our thought process and explaining the results we found. Finally, in the **Images** directory one can find all the photos, plots and videos that have been used in the report. 
