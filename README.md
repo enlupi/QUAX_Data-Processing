@@ -7,6 +7,8 @@
 
 # Streaming Processing of the QUAX Experiment Data for the Detection of Galactic Axions
 
+Final project for the Management and Analysis of Physics Dataset (Mod. B) course, Physics of Data degree at University of Padua.
+
 ## Abstract
 
 The axion is a hypothetical particle introduced to solve the strong CP problem of Quantum Chromo Dynamics. It is speculated that axions may also constitute the dark matter content in our galaxy. The [QUAX](https://www.pd.infn.it/eng/quax/) (QUaerere AXions) experiment aims at detecting this particle by using a copper cavity immersed in a static magnetic field of 8.1 T, cooled down at a working temperature of about 150 mK.
