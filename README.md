@@ -7,7 +7,7 @@
 
 # Streaming Processing of the QUAX Experiment Data for the Detection of Galactic Axions
 
-Final project for the Management and Analysis of Physics Dataset (Mod. B) course, Physics of Data degree at University of Padua.
+Final project for *Management and Analysis of Physics Dataset (Mod. B)* course, Physics of Data degree at University of Padua.
 
 ## Abstract
 
